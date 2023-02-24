@@ -1,0 +1,54 @@
+/*인기 교재*/
+
+.about_area h2{
+	padding: 55px 0 105px;
+	text-align: center;
+	font-size: 40px;
+}
+.about_area h2 b{
+	color: #000;
+}
+
+.about_area .about_box{
+	background-color: #112453;
+}
+
+.clear:after{
+	display: block;
+	content: "";
+	clear: both;
+}
+.about_area .about_box .place_list li{
+	float: left;
+	width: 31%; margin-left: 2%;
+	text-align: center;
+	position: relative; top: -50px;
+}
+.about_area .about_box .place_list li:first-child{
+	margin-left: 0%;
+}
+.about_area .about_box .place_list li .img_topplace{
+	width: 50%;
+	box-shadow: 3px 3px 15px orange;
+}
+.about_area .about_box .place_list li h3{
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 25px;
+	color: #fff;
+}
+.about_area .about_box .place_list li p.txt{
+	box-sizing: border-box;
+	position: 10px 30px 0;
+	width: 100%;
+	overflow: hidden;
+	line-height: 1.8;
+	color: #fff;
+}
+.about_area .about_box .place_list li .view{
+	display: inline-block;
+	margin-top: 20px;
+	padding: 5px;
+	border-top: 2px solid #fff;
+	color: #fff;
+}

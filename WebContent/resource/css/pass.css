@@ -1,0 +1,305 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Noto Sans KR', sans-serif;
+    /* background-color: #ffffff; */
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    width: 1650px;
+    margin: 0 auto;
+    /* line-height: 1.6; */
+}
+
+ul, li{
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+}
+
+a {
+    font-weight: 500;
+    font-size: 16px;
+    color: inherit;
+}
+
+/* TOP nav */
+.top_link {
+    /* width: 1920px; */
+    padding-top: 10px;
+    padding-right: 50px;
+    height: 50px;
+    background-color: #112453;
+    color: #ffffff;
+    text-align: right;
+}
+
+.top_link .util li span::after {
+    content: "\00a0\00a0\00a0\00a0\00a0\00a0|\00a0\00a0\00a0\00a0\00a0\00a0";
+    color: #ffffff;
+}
+
+
+.top_link .util li a:link{
+    color: #ffffff;
+}
+
+.top_link .util li a:visited {
+    color: #ffffff;
+}
+
+.top_link .util li a:hover {
+    color: #0088a9;
+}
+
+.top_link .util li {
+    display: inline;
+}
+
+.totop a::after {
+    background: url(../img/img98.png) no-repeat 0px 0px;  
+    content: "";
+    display: inline-block;
+    height: 10px;
+    width: 10px;    
+    margin: 0 3px 0 8px;
+}
+
+/* 메인 nav */
+header {
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    /* padding: 0 0%; */
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links>li {
+    display: inline-block;
+    padding: 0px 20px;
+    color: #112453;
+    height: 50px;
+    margin-top: 25px;
+}
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+    color: #112453;
+    height: 50px;
+}
+
+.nav_links>li>a {
+    font-size: 22px;
+    font-weight: 600;
+    transition: all 0.3s ease 0s;
+    margin: 50px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+    margin: 50px;
+    color: #112453;
+}
+
+.nav_links li a:hover {
+    color: #0088a9;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    margin-top: 20px;
+    width: 100%;
+    z-index: 1;
+}
+
+.submenu>li {
+    padding: 5px 0;
+    display: block;
+    
+    /* background-color: #0088a9; */
+}
+
+.submenu li a:hover {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    /* background-color: #112453; */
+    /* color: white; */
+}
+
+/* 퀵메뉴 */
+.quick_area{
+	position: fixed; 
+    top: 400px; right: 0; 
+    z-index: 100;
+}
+
+.quick_area .quick_list li{
+	text-align: center;
+	background-color: #112453;
+	font-size: 15px;
+}
+
+.quick_area .quick_list li a{
+	display: block;
+	padding: 15px 0;
+	border-top: 3px solid #ddd;
+}
+
+
+.quick_area .quick_list li:first-child a{
+	border: none;
+}
+
+
+.quick_area .quick_list li:last-child a h3{
+	padding-bottom: 0;
+}
+
+.quick_area .quick_list li a p{
+	line-height: 1.3;
+	font-size: 12px;
+	color: #aaa;
+	padding: 0 5px;
+}
+.quick_area .quick_list li a p:hover {
+    color: #fff;
+}
+
+.totop {
+    text-align: center;
+}
+
+.topimg {
+    background-color: black;
+}
+
+/* 게시판 */
+.board_wrap {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+
+.board_title {
+    margin-bottom: 30px;
+}
+
+.board_title strong {
+    font-size: 3rem;
+}
+
+.board_title p {
+    margin-top: 5px;
+    font-size: 1.4rem;
+}
+
+.bt_wrap {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 0;
+}
+
+.bt_wrap a {
+    display: inline-block;
+    min-width: 80px;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #000;
+    border-radius: 2px;
+    font-size: 1.4rem;
+}
+
+.bt_wrap a:first-child {
+    margin-left: 0;
+}
+
+.bt_wrap a.on {
+    background-color: #000;
+    color: #fff;
+}
+
+/* 푸터 */
+#footer {
+    line-height: 3;
+}
+.foot_list {
+    text-align: center;
+    margin-top: 50px;
+}
+.foot_list li {
+    display: inline-block;
+}
+.foot_list li a {
+    color: #666;
+    font-size: 14px;
+}
+
+.foot_list li span::after {
+    content: "\00a0\00a0\00a0\00a0|\00a0\00a0\00a0";
+    color: black;
+}
+
+.foot_area {
+    color: #666;
+    font-size: 14px;
+    text-align: center;
+}
+
+.foot_area p {
+    display: inline;
+}
+
+.lhb {
+    font-weight: 900;
+    color: black;
+    font-size: 16px;
+}
+
+/* 댓글 */
+#reply {
+	border: none;
+	padding: 20px;
+}
+
+#replyId {
+	padding: 10px;
+}
+
+#reply thead tr th {
+	border: none;
+	padding: 10px 10px 50px 10px;
+	font-size: 16px;
+}
+
+#reply thead tr th button {
+	display: inline-block;
+    min-width: 80px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+#reply tbody tr td {
+	padding: 10px;
+}
