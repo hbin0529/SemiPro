@@ -3,16 +3,16 @@
 
 <br>
 
-### 메인 페이지
+## 메인 페이지
 
 ![mainPage](https://user-images.githubusercontent.com/114133335/224046453-37faf88b-b1b8-4c60-a677-06aacb2f9e46.jpg)
 <br>
 
-### 기간
+## 기간
 > 2022.12.12 ~ 2022.12.21
 <br>
 
-### 개발환경
+## 개발환경
 > * Java 1.8
 > * Oracle DB
 > * Jsp
@@ -20,7 +20,7 @@
 > * Apache Tomcat9.0
 <br>
 
-### 주요기능
+## 주요기능
 > * 커뮤니티 : CRUD 게시판, 페이징 처리, 댓글, 검색
 > * 회원가입 : 회원가입 및 로그인
 <br>
@@ -30,7 +30,7 @@
 ![semi ERD](https://user-images.githubusercontent.com/114133335/224040423-f6ae1c51-f780-4454-98f9-4e4a5046c48b.JPG)
 <br>
 
-### 실행화면
+## 실행화면
 <details>
 <summary>게시판</summary>
 
