@@ -31,7 +31,7 @@
 <br>
 
 > 실행화면
-* <details>
+<details>
 <summary>더보기</summary>
 
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
