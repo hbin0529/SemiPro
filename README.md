@@ -23,6 +23,12 @@
 > ### 주요기능
 > * 커뮤니티 : CRUD 게시판, 페이징 처리, 댓글, 검색
 > * 회원가입 : 회원가입 및 로그인
+<br>
 
+> ### ERD 다이어그램
 
+![semi ERD](https://user-images.githubusercontent.com/114133335/224040423-f6ae1c51-f780-4454-98f9-4e4a5046c48b.JPG)
+<br>
 
+> 실행화면
+> *
