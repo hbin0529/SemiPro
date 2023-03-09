@@ -5,7 +5,7 @@
 
 ### 메인 페이지
 
-![mainPage](https://user-images.githubusercontent.com/114133335/224035100-6a8cb2c9-18cd-4ae7-98dc-010a701c5b7b.jpg)
+![mainPage](https://user-images.githubusercontent.com/114133335/224046453-37faf88b-b1b8-4c60-a677-06aacb2f9e46.jpg)
 <br>
 
 ### 기간
