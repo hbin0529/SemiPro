@@ -1,16 +1,16 @@
 # 대형소방학원
 > CRUD 게시판 사이트
 
-<br><br>
+<br>
 
 > 메인 페이지
 
 ![mainPage](https://user-images.githubusercontent.com/114133335/224035100-6a8cb2c9-18cd-4ae7-98dc-010a701c5b7b.jpg)
-<br><br>
+<br>
 
 > 기간
 > 2022.12.12 ~ 2022.12.21
-<br><br>
+<br>
 
 > 개발환경
 * Java 1.8
