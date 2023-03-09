@@ -32,9 +32,10 @@
 
 > 실행화면
 <details>
-<summary>더보기</summary>
+<summary>게시판</summary>
 
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-자세한 내용은 더보기 버튼으로 가려둘 수 있음
+![boardListPage](https://user-images.githubusercontent.com/114133335/224043093-e6847ad8-c117-4b9f-92f7-643469e18d6a.jpg)
+![readPage](https://user-images.githubusercontent.com/114133335/224043144-e4d53eb4-1c02-4b1b-a285-1e1fc9329138.jpg)
 
 </details>
