@@ -13,11 +13,11 @@
 <br>
 
 > ### 개발환경
-* Java 1.8
-* Oracle DB
-* Jsp
-* Javascript(jQuery, ajax)
-* Apache Tomcat9.0
+> * Java 1.8
+> * Oracle DB
+> * Jsp
+> * Javascript(jQuery, ajax)
+> * Apache Tomcat9.0
 <br><br>
 
 
