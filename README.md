@@ -36,15 +36,29 @@
 
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 ![boardListPage](https://user-images.githubusercontent.com/114133335/224043093-e6847ad8-c117-4b9f-92f7-643469e18d6a.jpg)
+
+</details>
+
+<details>
+<summary>상세 게시판</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 ![readPage](https://user-images.githubusercontent.com/114133335/224043144-e4d53eb4-1c02-4b1b-a285-1e1fc9329138.jpg)
 
 </details>
 
 <details>
-<summary>로그인 및 회원가입</summary>
+<summary>로그인</summary>
 
 <!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 ![loginPage](https://user-images.githubusercontent.com/114133335/224045748-aaf92920-35eb-4428-be18-f4dd3f53239d.jpg)
+
+</details>
+
+<details>
+<summary>회원가입</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 ![signPage](https://user-images.githubusercontent.com/114133335/224045760-064636bf-3568-40d3-bc6e-07f8469317bc.jpg)
 
 </details>
