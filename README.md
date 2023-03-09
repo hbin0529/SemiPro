@@ -18,6 +18,11 @@
 > * Jsp
 > * Javascript(jQuery, ajax)
 > * Apache Tomcat9.0
-<br><br>
+<br>
+
+> ### 주요기능
+> 커뮤니티 : CRUD 게시판, 페이징 처리, 댓글, 검색
+> 회원가입 : 회원가입 및 로그인
+
 
 
