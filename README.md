@@ -9,7 +9,7 @@
 <br>
 
 ## 기간
-> 2022.12.12 ~ 2022.12.21
+> 2022.12.12 ~ 2022.12.21(10일)
 <br>
 
 ## 개발환경
@@ -30,7 +30,7 @@
 ![semi ERD](https://user-images.githubusercontent.com/114133335/224040423-f6ae1c51-f780-4454-98f9-4e4a5046c48b.JPG)
 <br>
 
-## 실행화면()
+## 실행화면
 <details>
 <summary>게시판</summary>
 
