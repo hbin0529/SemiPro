@@ -26,42 +26,29 @@
 <br>
 
 ## ERD 다이어그램
-
-![semi ERD](https://user-images.githubusercontent.com/114133335/224040423-f6ae1c51-f780-4454-98f9-4e4a5046c48b.JPG)
+<img src="https://user-images.githubusercontent.com/114133335/225570147-0eb6c3c8-4a1c-4427-98bd-20767833cdec.JPG" width="800" height="400"/>
 <br>
 
 ## 실행화면
-<details>
-<summary>게시판</summary>
+> * 게시판 : 글쓰기, 글삭제, 글수정, 댓글, 댓글삭제가 가능합니다. <br>
+글쓰기를 눌러서 필요한 정보를 작성 후 작성완료 버튼을 누르면 DB에 저장되고 리스트에 보여지게 됩니다.
+<br>
+<img src="https://user-images.githubusercontent.com/114133335/224043093-e6847ad8-c117-4b9f-92f7-643469e18d6a.jpg" width="800" height="400"/>
+<br>
 
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-![boardListPage](https://user-images.githubusercontent.com/114133335/224043093-e6847ad8-c117-4b9f-92f7-643469e18d6a.jpg)
+> * 상세게시판
+<br>
+ <img src="https://user-images.githubusercontent.com/114133335/224043144-e4d53eb4-1c02-4b1b-a285-1e1fc9329138.jpg" width="800" height="400"/>
+<br>
 
-</details>
+> * 로그인
+<br>
+ <img src="https://user-images.githubusercontent.com/114133335/225567888-40cfa5ec-4f8b-44e2-be8e-46927d5414ec.jpg" width="300" height="400"/>
+<br>
 
-<details>
-<summary>상세 게시판</summary>
-
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-![readPage](https://user-images.githubusercontent.com/114133335/224043144-e4d53eb4-1c02-4b1b-a285-1e1fc9329138.jpg)
-
-</details>
-
-<details>
-<summary>로그인</summary>
-
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-![loginPage](https://user-images.githubusercontent.com/114133335/224045748-aaf92920-35eb-4428-be18-f4dd3f53239d.jpg)
-
-</details>
-
-<details>
-<summary>회원가입</summary>
-
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-![signPage](https://user-images.githubusercontent.com/114133335/224045760-064636bf-3568-40d3-bc6e-07f8469317bc.jpg)
-
-</details>
+> * 회원가입
+<br>
+ <img src="https://user-images.githubusercontent.com/114133335/225567776-98fc4a95-fd21-418c-a856-f4dc90f16886.jpg" width="300" height="400"/>
 
 <br>
 <br>
