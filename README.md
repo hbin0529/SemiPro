@@ -5,7 +5,8 @@
 
 ## 메인 페이지
 
-![mainPage](https://user-images.githubusercontent.com/114133335/224046453-37faf88b-b1b8-4c60-a677-06aacb2f9e46.jpg)
+<img src="https://user-images.githubusercontent.com/114133335/225570433-226109cb-c324-4296-88db-b1f046717882.jpg" width="800" height="600"/>
+
 <br>
 
 ## 기간
@@ -26,29 +27,39 @@
 <br>
 
 ## ERD 다이어그램
+<p align="center">
 <img src="https://user-images.githubusercontent.com/114133335/225570147-0eb6c3c8-4a1c-4427-98bd-20767833cdec.JPG" width="800" height="400"/>
+</p>
 <br>
 
 ## 실행화면
 > * 게시판 : 글쓰기, 글삭제, 글수정, 댓글, 댓글삭제가 가능합니다. <br>
 글쓰기를 눌러서 필요한 정보를 작성 후 작성완료 버튼을 누르면 DB에 저장되고 리스트에 보여지게 됩니다.
 <br>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/114133335/224043093-e6847ad8-c117-4b9f-92f7-643469e18d6a.jpg" width="800" height="400"/>
+</p>
 <br>
 
 > * 상세게시판
 <br>
+<p align="center">
  <img src="https://user-images.githubusercontent.com/114133335/224043144-e4d53eb4-1c02-4b1b-a285-1e1fc9329138.jpg" width="800" height="400"/>
+</p>
 <br>
 
 > * 로그인
 <br>
+<p align="center">
  <img src="https://user-images.githubusercontent.com/114133335/225567888-40cfa5ec-4f8b-44e2-be8e-46927d5414ec.jpg" width="300" height="400"/>
+</p>
 <br>
 
 > * 회원가입
 <br>
+<p align="center">
  <img src="https://user-images.githubusercontent.com/114133335/225567776-98fc4a95-fd21-418c-a856-f4dc90f16886.jpg" width="300" height="400"/>
+</p>
 
 <br>
 <br>
